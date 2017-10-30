@@ -1,4 +1,4 @@
-# Fyre Isles Setting
+# Setting
 
 PUT SETTING INFO HERE
 PUT SETTING INFO HERE
